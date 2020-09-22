@@ -1,0 +1,22 @@
+	MS SQL SERVER 2005 DATABASE AND TABLE
+------------------------------------------------------
+
+CREATE DATABASE: programDB
+
+CREATE TABLE: employee
+
+Fields: 	Data Type
+------------------------------------------------------
+EMPID 		int IDENTITY(100,1)
+EMPName		nvarchar(50)
+EMPPosition	nvarchar(50)
+
+
+CREATE USER: 	hackeem
+USER PASSWORD:	kilburn
+
+
+Give a role and administrative priviledge to new user hackeem.
+
+
+Thanks and enjoy...
